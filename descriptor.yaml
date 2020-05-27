@@ -1,0 +1,15 @@
+code: training-bundle 
+description: This is the training bundle
+
+components:
+  plugins:
+    - plugins/training-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
+  pageModels:
+
+  contentTypes:
+
+  contentModels:
